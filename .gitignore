@@ -1,0 +1,18 @@
+# Временные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Резервные копии
+*.bak
+*.tmp
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
